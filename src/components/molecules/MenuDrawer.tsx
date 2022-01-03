@@ -6,7 +6,6 @@ import {
   DrawerContent,
   DrawerOverlay,
 } from '@chakra-ui/react'
-import { StringLiteralType } from 'typescript'
 
 type Props = {
   isOpen: boolean
